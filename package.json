@@ -1,0 +1,18 @@
+{
+    "devDependencies": {
+        "@babel/core": "^7.7.4",
+        "@storybook/react": "^5.2.8",
+        "babel-loader": "^8.0.6",
+        "file-loader": "^5.0.2"
+    },
+    "dependencies": {
+        "deepmerge": "^4.2.2",
+        "enexis-ui": "github:weareyou/enexis-ui",
+        "react": "^16.12.0",
+        "react-dom": "^16.12.0",
+        "styled-components": "^4.4.1"
+    },
+    "scripts": {
+        "storybook": "start-storybook -s ./src"
+    }
+}
