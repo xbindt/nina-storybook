@@ -1,7 +1,7 @@
 {
     "devDependencies": {
         "@babel/core": "^7.7.4",
-        "@storybook/react": "^5.2.8",
+        "@storybook/react": "^8.5.3",
         "babel-loader": "^8.0.6",
         "file-loader": "^5.0.2"
     },
